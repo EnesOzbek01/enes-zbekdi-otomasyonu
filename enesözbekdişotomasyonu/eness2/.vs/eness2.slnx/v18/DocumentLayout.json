@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|c:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\re\u00E7eteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\re\u00E7eteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\re\u00E7eteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\re\u00E7eteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\class1r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\class1r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\tedaviler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96716A-7C8D-45C1-8FF5-8CE1267AAC57}|eness2\\DisKlinik.csproj|solutionrelative:eness2\\tedaviler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Re\u00E7eteler.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Re\u00E7eteler.cs",
+              "RelativeDocumentMoniker": "eness2\\Re\u00E7eteler.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Re\u00E7eteler.cs",
+              "RelativeToolTip": "eness2\\Re\u00E7eteler.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAhwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:18:13.401Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hasta.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hasta.cs",
+              "RelativeDocumentMoniker": "eness2\\Hasta.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hasta.cs [Design]",
+              "RelativeToolTip": "eness2\\Hasta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T17:26:27.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Anasayfa.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "eness2\\Anasayfa.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Anasayfa.cs [Design]*",
+              "RelativeToolTip": "eness2\\Anasayfa.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T17:20:57.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Form1.cs",
+              "RelativeDocumentMoniker": "eness2\\Form1.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Form1.cs [Design]",
+              "RelativeToolTip": "eness2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T17:21:01.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tedavi.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedavi.cs",
+              "RelativeDocumentMoniker": "eness2\\Tedavi.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedavi.cs [Design]",
+              "RelativeToolTip": "eness2\\Tedavi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:17:05.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "eness2\\ConnectionString.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\ConnectionString.cs",
+              "RelativeToolTip": "eness2\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T19:33:31.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "eness2\\Anasayfa.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Anasayfa.cs*",
+              "RelativeToolTip": "eness2\\Anasayfa.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:14:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tedavi.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedavi.cs",
+              "RelativeDocumentMoniker": "eness2\\Tedavi.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedavi.cs",
+              "RelativeToolTip": "eness2\\Tedavi.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:46:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Randevu.cs",
+              "RelativeDocumentMoniker": "eness2\\Randevu.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Randevu.cs",
+              "RelativeToolTip": "eness2\\Randevu.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:14:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Re\u00E7eteler.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Re\u00E7eteler.cs",
+              "RelativeDocumentMoniker": "eness2\\Re\u00E7eteler.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\eness2\\eness2\\Re\u00E7eteler.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\eness2\\eness2\\Re\u00E7eteler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:18:08.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Randevu.cs [Design]",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Randevu.cs",
+              "RelativeDocumentMoniker": "eness2\\Randevu.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\eness2\\eness2\\Randevu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\eness2\\eness2\\Randevu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:53:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hasta.cs",
+              "RelativeDocumentMoniker": "eness2\\Hasta.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hasta.cs",
+              "RelativeToolTip": "eness2\\Hasta.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAEwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:45:36.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\Users\\enesc\\OneDrive\\Masa\u00FCst\u00FC\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-16T12:26:01.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Program.cs",
+              "RelativeDocumentMoniker": "eness2\\Program.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Program.cs",
+              "RelativeToolTip": "eness2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:04:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Randevular.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Randevular.cs",
+              "RelativeDocumentMoniker": "eness2\\Randevular.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Randevular.cs",
+              "RelativeToolTip": "eness2\\Randevular.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:27:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Form1.cs",
+              "RelativeDocumentMoniker": "eness2\\Form1.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Form1.cs",
+              "RelativeToolTip": "eness2\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:46:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1R.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Class1R.cs",
+              "RelativeDocumentMoniker": "eness2\\Class1R.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Class1R.cs",
+              "RelativeToolTip": "eness2\\Class1R.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:37:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hastalar.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hastalar.cs",
+              "RelativeDocumentMoniker": "eness2\\Hastalar.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Hastalar.cs",
+              "RelativeToolTip": "eness2\\Hastalar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T19:39:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tedaviler.cs",
+              "DocumentMoniker": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedaviler.cs",
+              "RelativeDocumentMoniker": "eness2\\Tedaviler.cs",
+              "ToolTip": "C:\\enes\u00F6zbekdi\u015Fotomasyonu\\eness2\\eness2\\Tedaviler.cs",
+              "RelativeToolTip": "eness2\\Tedaviler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:20:21.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
